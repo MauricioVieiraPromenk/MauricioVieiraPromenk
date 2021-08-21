@@ -1,2 +1,2 @@
-Hi! My name is Mauricio and I love to create!
+I have always wanted to create stuff, now I am doing it for real!
 Currently learning Java...
